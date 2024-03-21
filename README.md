@@ -1,3 +1,3 @@
 # Internet_tehnologii
 
-lab1 grupa B
+Labs po predmetot Internet tehnologii
